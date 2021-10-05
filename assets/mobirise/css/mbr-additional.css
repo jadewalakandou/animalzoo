@@ -708,11 +708,10 @@ section.lazy-placeholder:after {
 }
 .cid-sKYDqOQxh0 {
   background: #bfedd2;
-  padding-top: 0px;
-  padding-bottom: 0px;
 }
 .cid-sKYDqOQxh0 .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-sKYDqOQxh0 .video-block {
